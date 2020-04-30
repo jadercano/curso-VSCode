@@ -11,6 +11,9 @@
 */
 
 
+function holaMundo(){
+    return 'Saludos a todos';
+}
 
 
 

@@ -13,8 +13,18 @@ export class NuevoSuperHeroe {
     }
 }
 
+export class AnotherTest {
+
+    constructor() {
+        //this works
+    }
+}
 
 
 
+export class Test {
 
-
+    constructor() {
+        //code here
+    }
+}
